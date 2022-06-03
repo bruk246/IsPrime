@@ -1,0 +1,15 @@
+/Users/brukgella/Projects/PrimeNum/PrimeNum/bin/Debug/net6.0/PrimeNum
+/Users/brukgella/Projects/PrimeNum/PrimeNum/bin/Debug/net6.0/PrimeNum.deps.json
+/Users/brukgella/Projects/PrimeNum/PrimeNum/bin/Debug/net6.0/PrimeNum.runtimeconfig.json
+/Users/brukgella/Projects/PrimeNum/PrimeNum/bin/Debug/net6.0/PrimeNum.dll
+/Users/brukgella/Projects/PrimeNum/PrimeNum/bin/Debug/net6.0/PrimeNum.pdb
+/Users/brukgella/Projects/PrimeNum/PrimeNum/obj/Debug/net6.0/PrimeNum.csproj.AssemblyReference.cache
+/Users/brukgella/Projects/PrimeNum/PrimeNum/obj/Debug/net6.0/PrimeNum.GeneratedMSBuildEditorConfig.editorconfig
+/Users/brukgella/Projects/PrimeNum/PrimeNum/obj/Debug/net6.0/PrimeNum.AssemblyInfoInputs.cache
+/Users/brukgella/Projects/PrimeNum/PrimeNum/obj/Debug/net6.0/PrimeNum.AssemblyInfo.cs
+/Users/brukgella/Projects/PrimeNum/PrimeNum/obj/Debug/net6.0/PrimeNum.csproj.CoreCompileInputs.cache
+/Users/brukgella/Projects/PrimeNum/PrimeNum/obj/Debug/net6.0/PrimeNum.dll
+/Users/brukgella/Projects/PrimeNum/PrimeNum/obj/Debug/net6.0/refint/PrimeNum.dll
+/Users/brukgella/Projects/PrimeNum/PrimeNum/obj/Debug/net6.0/PrimeNum.pdb
+/Users/brukgella/Projects/PrimeNum/PrimeNum/obj/Debug/net6.0/PrimeNum.genruntimeconfig.cache
+/Users/brukgella/Projects/PrimeNum/PrimeNum/obj/Debug/net6.0/ref/PrimeNum.dll
